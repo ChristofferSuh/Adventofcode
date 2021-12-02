@@ -1,4 +1,5 @@
-﻿using AdventofCode.Day_Two;
+﻿using AdventofCode.Day_One;
+using AdventofCode.Day_Two;
 using System;
 
 namespace AdventofCode
@@ -7,7 +8,8 @@ namespace AdventofCode
     {
         static void Main(string[] args)
         {
-            new DayTwoTwo().DayTwoPartTwo();
+            new SonarSweep().PartOneLinq();
+           // new DayTwoTwo().DayTwoPartTwo();
         }
 
     }
