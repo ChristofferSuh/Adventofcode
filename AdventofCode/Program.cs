@@ -10,7 +10,7 @@ namespace AdventofCode
         static void Main(string[] args)
         {
             // new SonarSweep().PartOneLinq();
-            new BinaryDiagnostic().PartOne();
+            new BinaryDiagnostic().PartTwoB();
         }
 
     }
