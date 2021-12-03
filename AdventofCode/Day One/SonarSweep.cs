@@ -9,6 +9,7 @@ namespace AdventofCode.Day_One
 {
     class SonarSweep
     {
+       
         public void PartOne()
         {
             int compareprevious = 0;
