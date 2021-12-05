@@ -1,4 +1,5 @@
-﻿using AdventofCode.Day_One;
+﻿using AdventofCode.Day_Four;
+using AdventofCode.Day_One;
 using AdventofCode.Day_Three;
 using AdventofCode.Day_Two;
 using System;
@@ -10,7 +11,10 @@ namespace AdventofCode
         static void Main(string[] args)
         {
             // new SonarSweep().PartOneLinq();
-            new BinaryDiagnostic().PartTwoB();
+            GiantSquid gs = new GiantSquid();
+            gs.PartOne();
+            gs.PartOneGame();
+
         }
 
     }
