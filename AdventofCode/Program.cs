@@ -1,6 +1,7 @@
 ﻿using AdventofCode.Day_Five;
 using AdventofCode.Day_Four;
 using AdventofCode.Day_One;
+using AdventofCode.Day_Six;
 using AdventofCode.Day_Three;
 using AdventofCode.Day_Two;
 using System;
@@ -15,7 +16,8 @@ namespace AdventofCode
             //GiantSquid gs = new GiantSquid();
             //gs.PartOne();
             //gs.PartOneGame();
-            new HydroThermalVenture().PartOne();
+            //new HydroThermalVenture().PartOne
+            new LanternFish().PartTwo();
 
         }
 
